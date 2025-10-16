@@ -230,4 +230,4 @@ Use it in `examples/simple_backtest.py` and re-run. No engine changes needed.
 ---
 
 ## 📝 License
-MIT © 2025 Your Name
+MIT © 2025 Aayush Kumar
